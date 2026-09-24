@@ -1,0 +1,14 @@
+# Os CSVs exportados do sistema NUNCA vão para o repositório.
+dados/
+*.csv
+*.CSV
+*.xlsx
+*.xls
+
+# Versões antigas geradas com --backup
+*_anterior_*.html
+
+# Lixo de sistema
+.DS_Store
+Thumbs.db
+__pycache__/
